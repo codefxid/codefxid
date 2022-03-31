@@ -7,3 +7,7 @@ Welcome to the **Codefx ID** repository. We have lots of interesting projects an
 
 #### 📢 Check the latest open source projects :
     No open source available yet.
+
+#### 📢 Want to say hello? Contact us below :
+- Email : codefx.id@gmail.com
+- Whatsapp : +6289528745181
