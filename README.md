@@ -5,13 +5,17 @@ Welcome to the **Codefx ID** repository. We have lots of interesting projects an
 #### 📢 Check latest posts on our website :
     No posts available yet.
 
-#### 📢 Check our latest open source projects :
-    No open source projects available yet.
-
 #### 📢 Check our latest youtube videos :
     No videos available yet.
 
+#### 📢 Check our latest instagram post :
+    No post available yet.
+
+#### 📢 Check our latest open source projects :
+    No open source projects available yet.
+
 #### 📢 Want to say hello? Contact us below :
+- Linkedin : [Codefx ID](https://www.linkedin.com/company/codefx-id/)
 - Email : codefx.id@gmail.com
 - Whatsapp : [+62-895-2874-5181](https://api.whatsapp.com/send/?phone=6289528745181)
 - Website : [codefx.id](https://codefx.id)
