@@ -5,10 +5,11 @@ Welcome to the **Codefx ID** repository. We have lots of interesting projects an
 #### 📢 Check latest posts on our website :
     No posts available yet.
 
-#### 📢 Check latest open source projects :
+#### 📢 Check our latest open source projects :
     No open source projects available yet.
 
-#### 📢 Check latest open source projects :
+#### 📢 Check our latest youtube videos :
+    No videos available yet.
 
 #### 📢 Want to say hello? Contact us below :
 - Email : codefx.id@gmail.com
