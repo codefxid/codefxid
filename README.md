@@ -10,7 +10,7 @@ Welcome to the **Codefx ID** repository. We have lots of interesting projects an
 
 #### 📢 Want to say hello? Contact us below :
 - Email : codefx.id@gmail.com
-- Whatsapp : +6289528745181
-- Website : codefx.id
+- Whatsapp : [+62-895-2874-5181](https://api.whatsapp.com/send/?phone=6289528745181).
+- Website : [codefx.id](https://codefx.id)
 
 Please visit our website for more information and the services we offer.
