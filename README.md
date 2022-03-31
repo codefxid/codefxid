@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @codefxid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello 👋
 
-<!---
-codefxid/codefxid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to the Codefx ID repository. We have lots of interesting projects and code libraries that might help you. We hope that what we publish here can help you study or help you do your work.
+
+
